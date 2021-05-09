@@ -8,6 +8,4 @@ class UsbDebugToggle: DevelopModeToggleServiceBase(
         Settings.Global.ADB_ENABLED,
         "USB Debug",
         null
-) {
-
-}
+)
